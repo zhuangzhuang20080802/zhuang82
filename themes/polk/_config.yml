@@ -20,4 +20,6 @@ sns:
 menu:
   Home: /
   Archives: /archives
-  About: /about
+  Me: /about/me
+  ThisBlog: /about/thisblog
+  RSS: /atom.xml
