@@ -59,3 +59,9 @@ GitHub Pages国内本来就不快，这样一来，加载完博客界面基本�
 ***  
 
 博客独立域名<https://zhuang82.tk>已注册，欢迎关注！
+
+***
+
+博客评论功能即将上线，敬请期待。
+
+目前可以发送评论至<https://github.com/zhuangzhuang20080802/zhuangzhuang20080802.github.io/issues>

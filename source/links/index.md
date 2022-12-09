@@ -28,7 +28,7 @@ date: 2022-12-09 10:02:17
 是他让我接触了Solus   
 
 ### Alpha.Gu  
-<center><img src="https://pic1.zhimg.com/v2-0860dd1377d2e199c9b2be13ef251dbd_xll.jpg?source=32738c0c" alt="我" width="144" height="144"></center>  
+<center><img src="https://pic1.zhimg.com/v2-0860dd1377d2e199c9b2be13ef251dbd_xll.jpg?source=32738c0c" alt="Alpha.Gu" width="144" height="144"></center>  
 
 [知乎主页](https://www.zhihu.com/people/alphagu)  
 
@@ -37,7 +37,7 @@ date: 2022-12-09 10:02:17
 他把我带进了Arch Linux的世界  
 
 ### SamLukeYes  
-<center><img src="https://avatars.githubusercontent.com/u/12882091?v=4" alt="我" width="144" height="144"></center>  
+<center><img src="https://avatars.githubusercontent.com/u/12882091?v=4" alt="SamLukeYes" width="144" height="144"></center>  
 
 [GitHub主页](https://github.com/SamLukeYes)  
 
