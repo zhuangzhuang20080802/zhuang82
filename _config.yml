@@ -9,11 +9,11 @@ description: '初三业余程序员博客'
 #keywords:
 author: Zhuang
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://zhuang82.pages.dev
+url: https://zhuang82.tk
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

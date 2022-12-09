@@ -713,11 +713,6 @@
   "resolved" "https://registry.npmmirror.com/hexo-theme-landscape/-/hexo-theme-landscape-0.0.3.tgz"
   "version" "0.0.3"
 
-"hexo-theme-next@^8.14.0":
-  "integrity" "sha512-AJjue2bE5lqaZ4cwBR/vnfy4nvTWr4MEJdbyZr6PAKPlnBbuYozgL1lOZ3SeLt3CUiSynPCrnClmtWvDz2q3iw=="
-  "resolved" "https://registry.npmmirror.com/hexo-theme-next/-/hexo-theme-next-8.14.0.tgz"
-  "version" "8.14.0"
-
 "hexo-util@^2.0.0", "hexo-util@^2.1.0", "hexo-util@^2.7.0":
   "integrity" "sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ=="
   "resolved" "https://registry.npmmirror.com/hexo-util/-/hexo-util-2.7.0.tgz"
