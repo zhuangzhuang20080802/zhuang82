@@ -1,8 +1,35 @@
 ---
-title: About This Blog
-date: 2022-12-08 08:08:46
+title: About
+date: 2022-12-09 07:56:29
 ---
+
+# 关于我（一个简洁的介绍）
+
+<center><img src="https://avatars.githubusercontent.com/u/98221470?v=4" alt="我" width="144" height="144"></center>  
+网名：zhuang/zhuangzhuang/壮壮
+
+生日：2008.8.2
+
+文化程度：初中九年级
+
+爱好：游泳、编程、打乒乓球
+
+技能：编程（在我们九年级与众不同😁）
+
+学过的程序语言：Python HTML Bash Fish
+
+最喜欢的开源项目：CutefishOS(Piscesys)
+
+开发用操作系统：Arch Linux(Gnome桌面)
+
+邮箱：<xufengyuan20080802@gmail.com>和<xufengyuan20080802@outlook.com>
+
+飞书：我的邮箱
+
+微信：xufengyuan20080802XU
+
 # 关于此博客  
+
 **这大概是我的第三个博客了😅**
 
 今年的8月14日，我构建了我的第一个博客，那时动机很简单，我学会了翻🧱，逐渐不满于国内平台的审核机制，希望有一个平台来自由的发表观点，于是我就找到了GitHub Pages，并用Bootstrap5写作，博客源码至今还能在[zhuangzhuang20080802/blogfirst](https://github.com/zhuangzhuang20080802/blogfirst)中找到。
@@ -13,7 +40,7 @@ date: 2022-12-08 08:08:46
 
 但是很快，新问题出现了，Apostrophe会默认把所有Markdown中引用的图片在HTML中以Base64呈现，导致那一个`index.html`异常庞大，如图
 
-![filesize](/images/2212081.png)
+<center><img src="/images/2212081.png" alt="filesize" width="192" height="192"></center>
 
 GitHub Pages国内本来就不快，这样一来，加载完博客界面基本需要十几秒，实在慢的不可忍受，即使后来在Cloudflare Pages上建立了一个镜像站，也不尽如人意。
 
@@ -28,3 +55,7 @@ GitHub Pages国内本来就不快，这样一来，加载完博客界面基本�
 最后
 
 ![gfw](/images/2212082.png)
+
+***  
+
+博客独立域名<https://zhuang82.tk>已注册，欢迎关注！
