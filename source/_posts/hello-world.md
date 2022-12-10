@@ -13,6 +13,12 @@ $ hexo new "My New Post"
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
+### Create a new post  
+
+``` bash
+$ hexo new page "MyNewPage"
+```
+
 ### Run server
 
 ``` bash

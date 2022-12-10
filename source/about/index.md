@@ -3,7 +3,7 @@ title: About
 date: 2022-12-09 07:56:29
 ---
 
-# 关于我（一个简洁的介绍）
+### 关于我（一个简洁的介绍）
 
 <center><img src="https://avatars.githubusercontent.com/u/98221470?v=4" alt="我" width="144" height="144"></center>  
 网名：zhuang/zhuangzhuang/壮壮
@@ -28,7 +28,7 @@ date: 2022-12-09 07:56:29
 
 微信：xufengyuan20080802XU
 
-# 关于此博客  
+### 关于此博客  
 
 **这大概是我的第三个博客了😅**
 
@@ -68,7 +68,7 @@ GitHub Pages国内本来就不快，这样一来，加载完博客界面基本�
 
 ***
 
-# 评论区
+### 评论区
 
 博客评论功能我不打算搞了，维护起来太麻烦，GitHub的issues区就很好，之前到研究过Gitalk，感觉直接一点更好。
 
