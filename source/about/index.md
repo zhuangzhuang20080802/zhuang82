@@ -64,4 +64,20 @@ GitHub Pages国内本来就不快，这样一来，加载完博客界面基本�
 
 博客评论功能即将上线，敬请期待。
 
-目前可以发送评论至<https://github.com/zhuangzhuang20080802/zhuangzhuang20080802.github.io/issues>
+目前可以发送评论至<https://github.com/zhuangzhuang20080802/zhuangzhuang20080802.github.io/issues>  
+
+***
+
+# 评论区
+
+博客评论功能我不打算搞了，维护起来太麻烦，GitHub的issues区就很好，之前到研究过Gitalk，感觉直接一点更好。
+
+issues的题目为文章题目
+
+作为评论区的issues：<https://github.com/zhuangzhuang20080802/zhuangzhuang20080802.github.io/issues>  
+
+博客源码：<https://github.com/zhuangzhuang20080802/zhuang82>  
+
+**注意：博客源码的issues区保留备用，当然评论发到这里也不一定没人理～**
+
+有问题和私密评论发到我的邮箱也好。

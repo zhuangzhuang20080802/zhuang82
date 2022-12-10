@@ -18,7 +18,7 @@ date: 2022-12-09 10:02:17
 
 > 塔是昔日之塔，如暮烟似钟声  
 
-[博客](https://young3030.rth.app/)  
+[博客](https://young3030.rth1.vip/)  
 [GitHub主页](https://github.com/yolanda2010)  
 
 > 站长的话：  
