@@ -6,6 +6,7 @@ date: 2022-12-09 07:56:29
 ### 关于我（一个简洁的介绍）
 
 <center><img src="https://avatars.githubusercontent.com/u/98221470?v=4" alt="我" width="144" height="144"></center>  
+
 网名：zhuang/zhuangzhuang/壮壮
 
 生日：2008.8.2
@@ -40,7 +41,7 @@ date: 2022-12-09 07:56:29
 
 但是很快，新问题出现了，Apostrophe会默认把所有Markdown中引用的图片在HTML中以Base64呈现，导致那一个`index.html`异常庞大，如图
 
-<center><img src="/images/2212081.png" alt="filesize" width="192" height="192"></center>
+<center><img src="/images/2212081.png" alt="filesize" width="210" height="192"></center>
 
 GitHub Pages国内本来就不快，这样一来，加载完博客界面基本需要十几秒，实在慢的不可忍受，即使后来在Cloudflare Pages上建立了一个镜像站，也不尽如人意。
 
@@ -52,9 +53,7 @@ GitHub Pages国内本来就不快，这样一来，加载完博客界面基本�
 
 目前`*.pages.dev`在国内大部分地区超时，估计是最近发生的某事的缘故，等我注册完独立域名后博客才能正式运营，着急的朋友就用VPN或Tor吧。
 
-最后
-
-![gfw](/images/2212082.png)
+最后：**GFW，······**
 
 ***  
 
