@@ -5,7 +5,7 @@ date: 2022-12-09 07:56:29
 
 ### 关于我（一个简洁的介绍）
 
-<center><img src="https://avatars.githubusercontent.com/u/98221470?v=4" alt="我" width="144" height="144"></center>  
+<center><img src="https://avatars.githubusercontent.com/u/98221470?v=4" alt="我" width="144" height="144"></center>
 
 网名：zhuang/zhuangzhuang/壮壮
 
@@ -29,7 +29,7 @@ date: 2022-12-09 07:56:29
 
 微信：xufengyuan20080802XU
 
-### 关于此博客  
+### 关于此博客
 
 **这大概是我的第三个博客了😅**
 
@@ -80,3 +80,13 @@ issues的题目为文章题目
 **注意：博客源码的issues区保留备用，当然评论发到这里也不一定没人理～**
 
 有问题和私密评论发到我的邮箱也好。
+
+****
+
+最近几天发现issues区挺冷清的，不知是这个博客真没人看还是大家没有好的代理上不去Github，我决定还是加一个评论系统，目前选定韩国的[来必力](https://livere.com/)。
+
+评论区我不会花大力气维护（选择来必力的原因就是维护简单），有重要的内容的留言还是请发到GitHub issues。
+
+来必力的中文本地化做的不是很好（强迫症忍一忍）～
+
+来必力可能推送广告，屏蔽即可。
