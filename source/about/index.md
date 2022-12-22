@@ -37,7 +37,7 @@ date: 2022-12-09 07:56:29
 
 但很快我就发现了一个问题，即每写一篇博文，我都要使用HTML语言一点点编辑样式，效率实在太低，我也懒得打字，所以很快，那个博客就被废弃了。
 
-之后我学习了Markdown，并用[Apostrophe](https://apps.gnome.org/zh-CN/app/org.gnome.gitlab.somas.Apostrophe/)导出为HTML，新的博客只有一个`index.html`，不同博文用目录中的语法类似`[...](#...)`（好像叫锚点）实现跳转，维护起来很容易，所以至今还能用<https://zhuangzhuang20080802.github.io/>访问。
+之后我学习了Markdown，并用[Apostrophe](https://apps.gnome.org/zh-CN/app/org.gnome.gitlab.somas.Apostrophe/)导出为HTML，新的博客只有一个`index.html`，不同博文用目录中的语法类似`[...](#...)`（好像叫锚点）实现跳转，维护起来很容易，所以~~至今还能用<https://zhuangzhuang20080802.github.io/>访问。~~
 
 但是很快，新问题出现了，Apostrophe会默认把所有Markdown中引用的图片在HTML中以Base64呈现，导致那一个`index.html`异常庞大，如图
 
@@ -90,3 +90,7 @@ issues的题目为文章题目
 来必力的中文本地化做的不是很好（强迫症忍一忍）～
 
 来必力可能推送广告，屏蔽即可。
+
+****
+
+原博客[https://zhuangzhuang20080802.github.io/](https://zhuangzhuang20080802.github.io/)计划转型为资源库
