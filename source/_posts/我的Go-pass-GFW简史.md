@@ -1,7 +1,7 @@
 ---
 title: 我的Go-pass-GFW简史
 date: 2022-12-11 08:09:15
-tags: "技术"
+tags: ["技术","OverGFW"]
 ---
 
 Go-pass-GFW是什么意思？哈哈，你懂得！话不多说，直接正文。

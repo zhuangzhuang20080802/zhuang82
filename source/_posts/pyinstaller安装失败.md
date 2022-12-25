@@ -1,7 +1,7 @@
 ---
 title: pyinstaller安装失败
 date: 2022-12-23 17:33:27
-tags: "技术"
+tags: ["技术","Python","Windows"]
 ---
 
 ### 正文
