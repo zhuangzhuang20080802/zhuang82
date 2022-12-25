@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2022-12-09 07:56:29
+comments: false
 ---
 
 ### 关于我（一个简洁的介绍）
@@ -94,3 +95,21 @@ issues的题目为文章题目
 ****
 
 原博客[https://zhuangzhuang20080802.github.io/](https://zhuangzhuang20080802.github.io/)计划转型为资源库
+
+****
+
+### 网站访问状况
+
+**地区：河北承德**
+
+#### <zhuang82.pages.dev>
+
+基本上不去
+
+![超时](https://pic.imgdb.cn/item/63a70a8808b6830163bf5359.jpg)
+
+#### <zhuang82.tk>
+
+基本正常
+
+![正常](https://pic.imgdb.cn/item/63a70a9a08b6830163bf73c4.jpg)
