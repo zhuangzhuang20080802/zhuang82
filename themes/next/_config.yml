@@ -279,7 +279,7 @@ reward:
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
   #Twitter: https://twitter.com/username || fab fa-twitter
-  #Telegram: https://t.me/channel_name || fab fa-telegram
+  Telegram: https://t.me/dryrice || fab fa-telegram
   #WeChat: /images/wechat_channel.png || fab fa-weixin
   RSS: /atom.xml || fa fa-rss
 
@@ -292,9 +292,9 @@ related_posts:
 # Post edit
 # Easily browse and edit blog source code online.
 post_edit:
-  enable: false
-  url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/ # Link for view source
-  #url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/ # Link for fork & edit
+  enable: true
+  url: https://github.com/zhuangzhuang20080802/zhuang82/tree/master/source/ # Link for view source
+  #url: https://github.com/zhuangzhuang20080802/zhuang82/edit/master/source/ # Link for fork & edit
 
 # Show previous post and next post in post footer if exists
 # Available values: left | right | false
