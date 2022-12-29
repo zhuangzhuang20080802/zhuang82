@@ -28,8 +28,6 @@ comments: false
 
 飞书：我的邮箱
 
-微信：xufengyuan20080802XU
-
 QQ：1138697799
 
 ### 关于此博客
