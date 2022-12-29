@@ -38,7 +38,7 @@ comments: false
 他把我带进了Arch Linux的世界  
 
 ### SamLukeYes  
-<center><img src="https://avatars.githubusercontent.com/u/12882091?v=4" alt="SamLukeYes" width="144" height="144"></center>  
+<center><img src="https://pic.imgdb.cn/item/63ae15d108b6830163865fc9.jpg" alt="SamLukeYes" width="144" height="144"></center>  
 
 [GitHub主页](https://github.com/SamLukeYes)  
 
