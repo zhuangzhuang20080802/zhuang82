@@ -6,7 +6,7 @@ comments: false
 
 ### 关于我（一个简洁的介绍）
 
-<center><img src="https://pic.imgdb.cn/item/63ae15e408b6830163866e16.jpg" alt="我" width="144" height="144"></center>
+<center><img src="/images/1.jpg" alt="我" width="144" height="144"></center>
 
 网名：zhuang/zhuangzhuang/壮壮
 
