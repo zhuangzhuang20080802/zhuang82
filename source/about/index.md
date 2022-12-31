@@ -30,6 +30,25 @@ comments: false
 
 QQ：1138697799
 
+GnuPG公钥：
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEY6/lzBYJKwYBBAHaRw8BAQdAARBN2jTd1+mp+C000ZY5u98tTubDtbVmCxcw
+E6bZM+y0KuiuuOWzsOa6kCA8eHVmZW5neXVhbjIwMDgwODAyQG91dGxvb2suY29t
+PoiZBBMWCgBBFiEEIsaoPz8ZdyYrbjcTxl///oX8resFAmOv5cwCGwMFCQPDhnQF
+CwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQxl///oX8reuGhwEA5LPWvg9l
+NyaqEb+8Vymg/VdwIADohv2FgLpl0keCU2wA/jqO1rFc1JppoHjAlHvO7zXTVXRI
+vvvTkhinl7enztMKuDgEY6/lzBIKKwYBBAGXVQEFAQEHQJMLZR9dCTQY8H+hmz0W
+xZriB4MKCAuSgSJ3179PFN1FAwEIB4h+BBgWCgAmFiEEIsaoPz8ZdyYrbjcTxl//
+/oX8resFAmOv5cwCGwwFCQPDhnQACgkQxl///oX8revxxQD/QYWYOw3TSCeDq9G/
+C5fTOeAeiJFp6SNv0oLKL81s4rMBAOfzsejr6tUu8ltz9oXjV+F0Kb3Lklbo+Zb4
+CzBQGHUH
+=ygNM
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 ### 关于此博客
 
 **这大概是我的第三个博客了😅**
