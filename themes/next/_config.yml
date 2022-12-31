@@ -763,7 +763,7 @@ google_analytics:
 
 # Baidu Analytics
 # See: https://tongji.baidu.com
-baidu_analytics: # <app_id>
+baidu_analytics: 393febc4cef909e4f5ff671e604cbb2c
 
 # Growingio Analytics
 # See: https://www.growingio.com
@@ -823,7 +823,7 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.
 # For more information: http://ibruce.info/2015/04/04/busuanzi/
 busuanzi_count:
-  enable: false
+  enable: true
   total_visitors: true
   total_visitors_icon: fa fa-user
   total_views: true
@@ -954,3 +954,9 @@ darkmode_js:
   libUrl: # Set custom library cdn url for Darkmode.js
 
   canvas_nest: false
+
+# Progress bar in the top during page loading.
+# For more information: https://github.com/rstacruz/nprogress
+nprogress:
+  enable: true
+  spinner: true
