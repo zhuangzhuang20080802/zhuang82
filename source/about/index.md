@@ -22,7 +22,7 @@ comments: false
 
 最喜欢的开源项目：CutefishOS(Piscesys)
 
-开发用操作系统：Arch Linux(Gnome桌面)
+开发用操作系统：Windows11&Linux Mint(Cinnamon)双系统
 
 邮箱：<xufengyuan20080802@gmail.com>和<xufengyuan20080802@outlook.com>
 
